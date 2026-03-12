@@ -2,7 +2,6 @@ import { useState } from 'react'
 import TerrainSystem from './pages/TerrainSystem'
 import MLLogic from './pages/MLLogic'
 import ImplGuide from './pages/ImplGuide'
-import UbuntuGuide from './pages/UbuntuGuide'
 import CerradoView from './pages/CerradoView'
 
 const pages = [
