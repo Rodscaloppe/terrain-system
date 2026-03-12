@@ -9,7 +9,6 @@ const pages = [
   { id: 'terrain', label: '📡 Dashboard Sensores', component: TerrainSystem },
   { id: 'ml', label: '🧠 Lógica ML', component: MLLogic },
   { id: 'impl', label: '🛠 Implementação', component: ImplGuide },
-  { id: 'ubuntu', label: '🐧 Guia Ubuntu', component: UbuntuGuide },
 ]
 
 function App() {
